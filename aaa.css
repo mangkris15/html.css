@@ -1,0 +1,129 @@
+body {
+    background: linear-gradient(to bottom left, black 20%, red 80%);
+    padding: 0;
+    margin: 0;
+    min-height: 900px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 24px;
+    color: blue;
+  }
+  
+  .box1 {
+    width: 160px;
+    height: 160px;
+    background: black;
+    position: absolute;
+    left: 300px;
+    margin-top: 30px;
+  }
+  .color1 {
+    width: 160px;
+    height: 40px;
+    background: #fff67e;
+  }
+  .color2 {
+    width: 160px;
+    height: 40px;
+    background: #c5ebaa;
+  }
+  .color3 {
+    width: 160px;
+    height: 40px;
+    background: #f6f193;
+  }
+  .color4 {
+    width: 160px;
+    height: 40px;
+    background: #f2c18d;
+  }
+  
+  .box2 {
+    width: 160px;
+    height: 160px;
+    background: black;
+    position: absolute;
+    right: 300px;
+    margin-top: 30px;
+  }
+  
+  .color5 {
+    width: 160px;
+    height: 40px;
+    background: #52d3d8;
+  }
+  .color6 {
+    width: 160px;
+    height: 40px;
+    background: #3887be;
+  }
+  .color7 {
+    width: 160px;
+    height: 40px;
+    background: #38419d;
+  }
+  .color8 {
+    width: 160px;
+    height: 40px;
+    background: #200e3a;
+  }
+  
+  .box3 {
+    width: 160px;
+    height: 160px;
+    background: black;
+    margin-top: 250px;
+  }
+  .color9 {
+    width: 160px;
+    height: 40px;
+    background: #4c4b16;
+  }
+  .color10 {
+    width: 160px;
+    height: 40px;
+    background: #898121;
+  }
+  .color11 {
+    width: 160px;
+    height: 40px;
+    background: #e7b10a;
+  }
+  .color12 {
+    width: 160px;
+    height: 40px;
+    background: #f7f1e5;
+  }
+  
+  .namakelompok {
+    text-align: center;
+    margin-top: 20px;
+    color: #92ff77;
+    font-size: 16px;
+  }
+  .jekster {
+    text-align: center;
+    margin-top: 15px;
+    color: rgb(129, 129, 204);
+    font-size: 16px;
+  }
+  .mangkris {
+    text-align: center;
+    margin-top: 6px;
+    color: #d79771;
+    font-size: 16px;
+  }
+  .angel {
+    text-align: center;
+    margin-top: 6px;
+    color: #f1ca89;
+    font-size: 16px;
+  }
+  .eden {
+    text-align: center;
+    margin-top: 6px;
+    color: #ff86eb;
+    font-size: 16px;
+  }
